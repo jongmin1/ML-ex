@@ -1,4 +1,4 @@
-# multiple output -> softmax
+# multiple output  -> softmax
 # cross entropy -> 0에 가까울수록 정답에 가까운 것
 import numpy as np
 
